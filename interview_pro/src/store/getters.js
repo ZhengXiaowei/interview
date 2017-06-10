@@ -1,0 +1,1 @@
+export const answers = state => state.answers
